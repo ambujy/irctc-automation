@@ -71,20 +71,27 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
-  "TRAIN_COACH": "3A",
+  "TRAIN_NO": "12627",
+  "TRAIN_COACH": "2A",
   "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "SOURCE_STATION": "SBC",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "NDLS",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
-      "AGE": 25,
+      "NAME": "GIRISH KUMAR AP",
+      "AGE": 39,
       "GENDER": "Male",
+      "SEAT": "Side Upper",
+      "FOOD" "No Food"
+    },
+    {
+      "NAME": "SINDURI M",
+      "AGE": 37,
+      "GENDER": "Female",
       "SEAT": "Side Upper",
       "FOOD" "No Food"
     }
